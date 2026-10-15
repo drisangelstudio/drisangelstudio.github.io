@@ -1,0 +1,10 @@
+FOTO DE LA SECCION SOBRE MI
+
+Para cambiar tu fotografía:
+1. Elegí la foto que quieras usar.
+2. Guardala como archivo JPG y nombrala EXACTAMENTE angel-foto.jpg
+3. Ponela en esta carpeta reemplazando la anterior.
+4. En Chrome, presioná Ctrl + Shift + R.
+
+Tip: foto horizontal o cuadrada, nítida y con el sujeto centrado.
+El resto del diseño se mantiene igual.

@@ -1,0 +1,8 @@
+ANGEL DRIS — PORTFOLIO LIMPIO
+
+1. Eliminados asteriscos, estrellas y destellos animados de la interfaz.
+2. Nuevo email marketing de Uruguay: La Ruta del Arte Canino.
+3. Se conservan las secciones, fotografías, revistas, proyectos y campañas existentes.
+4. Los controles interactivos del portfolio siguen funcionando.
+
+Abrí index.html dentro de esta carpeta desde Visual Studio Code.

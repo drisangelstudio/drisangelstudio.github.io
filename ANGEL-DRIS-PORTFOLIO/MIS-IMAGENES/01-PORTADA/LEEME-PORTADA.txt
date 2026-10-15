@@ -1,0 +1,11 @@
+IMAGENES DE LA PORTADA
+
+Para reemplazar cualquiera de estas imágenes:
+1. Prepará la nueva imagen en PNG, preferentemente sin fondo.
+2. Cambiale el nombre exactamente por el archivo que querés reemplazar (por ejemplo "cartera.png").
+3. Arrastrala a esta carpeta y elegí "Reemplazar el archivo en el destino".
+4. Volvé a Chrome y presioná Ctrl + Shift + R para actualizar.
+
+IMPORTANTE: el nombre y la extensión deben ser exactamente iguales.
+Si tu nuevo archivo es JPG o WEBP, exportalo primero como PNG.
+No hace falta modificar el código ni crear una web nueva.
