@@ -1,0 +1,7 @@
+ACTUALIZACIÓN: CONTACTO MINIMALISTA
+- Eliminada la fotografía del bloque final y el archivo innecesario.
+- Conservado el título ¿Trabajamos juntas? y el formulario funcional.
+- Eliminados los textos decorativos y acortada la invitación.
+- Nueva composición de dos columnas en desktop; una columna en móvil.
+- No cambia el catálogo de servicios, campañas ni las opciones de precios.
+- Abrir index.html con Live Server o un servidor local en Visual Studio Code.

@@ -1,0 +1,13 @@
+ARCHIVO DE PROYECTOS · ANGEL DRIS
+
+Las revistas son imágenes WebP de cada página.
+Carpetas:
+- granaderos / 9 páginas
+- ituzaingo / 6 páginas
+- jockey / 12 páginas
+- uruguay / 16 páginas
+
+Nombres: 01.webp, 02.webp, etc.
+Para sustituir una página, conservar el nombre y la extensión.
+El lector tiene controles de flecha a la izquierda y a la derecha, a media altura.
+Revista Uruguay incluye además un visor interactivo dentro de la sección, junto a la descripción.

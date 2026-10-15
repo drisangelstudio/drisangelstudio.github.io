@@ -1,0 +1,40 @@
+ANGEL DRIS — NUEVA SECCIÓN SERVICIOS, PLANES Y CONTACTO
+=======================================================
+
+1) Abrí esta carpeta completa en Visual Studio Code y previsualizá index.html.
+   En Codespaces, desde la terminal en esta carpeta podés ejecutar:
+   python3 -m http.server 8000
+   Después abrí el puerto 8000 desde la pestaña PUERTOS.
+
+2) EDITAR EL LISTADO DE SERVICIOS:
+   Abrí index.html y buscá `07 / SERVICIOS`. Cada servicio está dentro
+   de una tarjeta `<article class="svc-card">`.
+   Podés cambiar nombre, descripción, categoría y el texto del precio.
+
+3) AGREGAR PRECIOS MÁS ADELANTE:
+   Para cada servicio, buscá `class="svc-price"` y reemplazá
+   `PRECIO A CONSULTAR` por un precio como `DESDE $50.000`.
+   En los planes, buscá `class="svc-plan-price"` y cambiá
+   `PRESUPUESTO A MEDIDA` por el valor que decidas.
+   Son textos de ejemplo; NO se publicaron precios concretos.
+
+4) CONSULTAS FUNCIONALES ANTES DE PUBLICAR:
+   Abrí servicios-contacto.js y cambiá la línea:
+   const PORTFOLIO_CONTACT_EMAIL = '';
+   por tu email profesional, por ejemplo:
+   const PORTFOLIO_CONTACT_EMAIL = 'contacto@tu-dominio.com';
+   El botón preparará un correo desde el dispositivo de cada visitante.
+   Si necesitás recepción de formularios sin abrir correo, después
+   habrá que conectarlo a un servicio de formularios o backend.
+
+5) FOTO DE CONTACTO:
+   MIS-IMAGENES/06-SERVICIOS/contacto-referencia.jpg
+   Es un recorte de la captura de referencia. Podés reemplazarlo por tu
+   fotografía original para mejorar nitidez sin cambiar código (mismo nombre).
+
+6) PERSONALIZACIÓN VISUAL:
+   Editá servicios-contacto.css. La sección respeta el rosa y bordó
+   de tu referencia; el resto del portfolio se conserva.
+
+NOTA: Los botones de las tarjetas te llevan al contacto y preseleccionan
+su servicio. Los filtros de categoría son interactivos.

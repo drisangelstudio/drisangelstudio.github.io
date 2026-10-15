@@ -1,0 +1,37 @@
+ANGEL DRIS® | PORTFOLIO ACTUALIZADO — EMAIL MARKETING URUGUAY
+
+CONTENIDO
+- index.html: página de entrada.
+- styles.css y script.js: estilos y animaciones originales.
+- MIS-IMAGENES/03-PROYECTOS: proyectos y revistas interactivas anteriores.
+- MIS-IMAGENES/04-CAMPANAS: campañas promocionales anteriores.
+- MIS-IMAGENES/05-EMAIL-MARKETING: NUEVA SECCIÓN de Uruguay con la pieza «La Ruta del Arte Canino».
+
+QUÉ SE AGREGÓ
+- Se quitaron TODOS los asteriscos decorativos y efectos giratorios del sitio, incluidos
+  portada, Sobre mí, proyectos, campañas y Email Marketing.
+- Se conservaron los botones, galerías, animaciones funcionales y el visor interactivo.
+- Menú «EMAIL MKTG» en la navegación.
+- Sección 06 con introducción, presentación tipo correo electrónico,
+  imagen original, datos del objetivo comercial y botón para ampliar.
+- Un visor interactivo para ver el email completo, adaptable a celular.
+
+CÓMO ABRIR EN VISUAL STUDIO CODE (COMPUTADORA)
+1. Descomprimí el ZIP.
+2. VS Code → Archivo → Abrir carpeta → ANGEL-DRIS-PORTFOLIO-EMAIL-URUGUAY-LIMPIO.
+3. Abrí index.html con Live Server o ejecutá desde la terminal en esta carpeta:
+   python3 -m http.server 8000
+4. En tu navegador entrá a http://localhost:8000/
+
+EN GITHUB CODESPACES (IPAD)
+1. Cargá el ZIP en el Explorador de VS Code (clic largo en la carpeta → «Cargar…»).
+2. En la terminal, dentro de la carpeta a la que se subió el ZIP, ejecutá:
+   unzip -o ANGEL-DRIS-PORTFOLIO-EMAIL-URUGUAY-LIMPIO.zip
+3. Entrá a la carpeta con:
+   cd ANGEL-DRIS-PORTFOLIO-EMAIL-URUGUAY-LIMPIO
+4. Iniciá el servidor:
+   python3 -m http.server 8000
+5. En el aviso del puerto 8000, tocá «Abrir en el navegador».
+NOTA: si ya hay un servidor activo en el puerto 8000, detenelo con Ctrl+C o usá 8001.
+
+Para seguir sumando emails, escribime y agregamos otros proyectos en la misma sección.

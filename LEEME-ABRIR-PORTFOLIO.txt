@@ -1,0 +1,14 @@
+ANGEL DRIS · PORTFOLIO CON CAMPAÑAS
+
+1) Descomprimí el ZIP en tu computadora.
+2) En VS Code: Archivo > Abrir carpeta. Abrí ANGEL-DRIS-PORTFOLIO-CON-CAMPANAS.
+3) Abrí index.html y elegí Go Live.
+4) Deslizá hasta Mis proyectos y después Campañas promocionales.
+
+Incluye todas las secciones previas, las 4 revistas interactivas y las 3 piezas
+reales de Halloween dentro de una computadora rosa con controles.
+
+Para reemplazar las tres imágenes sin tocar código:
+MIS-IMAGENES/04-CAMPANAS (leé LEEME-CAMPANAS.txt allí).
+
+La vista en computadora y celulares se adapta al ancho disponible.
